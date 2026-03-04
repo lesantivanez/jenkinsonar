@@ -1,4 +1,4 @@
-# :whale: DOCKER-PIRATE :whale:
+# :whale: DOCKER :whale:
 Some of my Docker projects with multiple tools and technologies. <br>
 This repository covers a general understanding of Docker DevOps practices from development to production. <br>
 
